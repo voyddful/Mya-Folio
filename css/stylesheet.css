@@ -160,13 +160,7 @@ h1, h2, h3, h4, h5, h6 {
   display:none;
 }
 
-@media (max-width: 767px){
-  .centah{
-    align-items: center;
-    display: flex;
-    justify-content: center
-  }
-}
+
 @media (min-width: 767px){
   .nocentah{
     align-items: center;
